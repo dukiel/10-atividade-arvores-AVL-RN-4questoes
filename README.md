@@ -1,5 +1,6 @@
 # Árvores AVL e Rubro-Negras — Lista de Exercícios
 Aluno: Daniel Luiz Cardoso
+
 Implementação em C++ dos exercícios de árvores AVL e rubro-negras da disciplina de Estruturas de Dados.
 
 ## Arquivos do projeto
